@@ -83,3 +83,7 @@ npm run dev
 
 This project is licensed under the **GNU Affero GPL v3**.  
 See the [LICENSE](LICENSE) file for more details.
+git clone https://github.com/DogeNetwork/dogeub.git
+cd dogeub
+npm i
+npm run dev
