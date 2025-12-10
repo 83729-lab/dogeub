@@ -55,7 +55,9 @@ npm run dev
 ```
 
 ---
-
+npm i
+npm run build
+node server.js
 
 ## Contributors / Developers
 
